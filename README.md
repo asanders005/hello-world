@@ -1,2 +1,4 @@
 # hello-world
-A simple repository to use as practice while learning GitHub
+I am a *human*
+Just a simple *human*
+I **exist**
